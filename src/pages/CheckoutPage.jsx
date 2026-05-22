@@ -138,7 +138,7 @@ const CheckoutPage = () => {
         <div className="max-w-[1060px] mx-auto">
 
           {/* HEADER SECTION */}
-          <div className="mb-5">
+          <div className="mb-6">
 
             {/* Back button */}
             <button className="flex items-center gap-2 text-sm text-gray-600 hover:text-gray-800 mb-3">
