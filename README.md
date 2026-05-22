@@ -341,6 +341,6 @@ git push -u origin main
 
 # 👨‍💻 Author
 
-Developed using React JS + Tailwind CSS.
-
-Professional responsive billing checkout page project.
+ Noor Alam  
+Computer Science and Engineering (CSE) Student  
+This project was developed using React.js and Tailwind CSS.
